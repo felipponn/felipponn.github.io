@@ -27,6 +27,7 @@ Work experience
   * Duties included: test scoring
   * Supervisor: Professor Yuri Saporito
   
+<!---
 Skills
 ======
 * Skill 1
@@ -53,3 +54,19 @@ Teaching
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
+-->
+
+Awards
+======
+* Bronze medal at [OBMEP](https://www.obmep.org.br/) (2014, 2019)
+* Silver medal at [OBMEP](https://www.obmep.org.br/) (2021)
+* Gold medal at [OBMEP](https://www.obmep.org.br/) (2015, 2016, 2017, 2018)
+* Honourable mention at [OBI](https://olimpiada.ic.unicamp.br/) (2018)
+* Bronze medal at [OBI](https://olimpiada.ic.unicamp.br/) (2017, 2019, 2020)
+* Bronze medal at [CELLM](https://www.obm.org.br/competicao-elon-lages-lima-de-matematica/) (2023)
+* Gold medal at [CELLM](https://www.obm.org.br/competicao-elon-lages-lima-de-matematica/) (2022)
+* Honourable mention at [OBM](https://www.obm.org.br/) (2017)
+* Bronze medal at [OBM](https://www.obm.org.br/) (2019, 2020, 2022)
+* Silver medal at [OBM](https://www.obm.org.br/) (2016, 2018)
+* Honourable mention at [IMC](https://www.imc-math.org.uk/) (2023)
+* Silver medal at [CIIM](https://www.ciim2023.org/) (2023)
