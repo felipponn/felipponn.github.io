@@ -11,7 +11,8 @@ redirect_from:
 
 Education
 ======
-* B.S. in Data Science & Artificial Intelligence, FGV - EMAp, 2025 (expected)
+* High school, Colégio Ari de Sá Cavalcante, 2019 - 2021
+* B.S. in Data Science & Artificial Intelligence, [FGV - EMAp](https://emap.fgv.br/en), 2022 - 2025 (expected)
 
 Work experience
 ======
