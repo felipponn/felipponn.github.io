@@ -1,6 +1,6 @@
 ---
 title: "Beatles Data Visualization"
-excerpt: "Project developed for the course of Programming Languages at FGV-EMAp. <br/><img src='/images/The_Beatles.jpg'>"
+excerpt: "Project developed for the course of Programming Languages at FGV-EMAp. <br/><img src='/images/The_Beatles_resize.jpg'>"
 collection: portfolio
 ---
 
