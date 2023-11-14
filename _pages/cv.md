@@ -63,7 +63,7 @@ Awards
 * Silver medal at [OBMEP](https://www.obmep.org.br/) (2021)
 * Gold medal at [OBMEP](https://www.obmep.org.br/) (2015, 2016, 2017, 2018)
 * Honourable mention at [OBI](https://olimpiada.ic.unicamp.br/) (2018)
-* Bronze medal at [OBI](https://olimpiada.ic.unicamp.br/) (2017, 2019, 2020)
+* Bronze medal at [OBI](https://olimpiada.ic.unicamp.br/) (2016, 2017, 2019, 2020)
 * Bronze medal at [CELLM](https://www.obm.org.br/competicao-elon-lages-lima-de-matematica/) (2023)
 * Gold medal at [CELLM](https://www.obm.org.br/competicao-elon-lages-lima-de-matematica/) (2022)
 * Honourable mention at [OBM](https://www.obm.org.br/) (2017)
